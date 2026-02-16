@@ -61,7 +61,7 @@ class _HomeViewState extends State<HomeView> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
                     Text(
-                      'Subject',
+                      'Subject to confess this year test test',
                       style: TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.bold,
@@ -70,10 +70,7 @@ class _HomeViewState extends State<HomeView> {
                     SizedBox(height: 6),
                     Text(
                       'Class A2 - Year 4',
-                      style: TextStyle(
-                        fontSize: 13,
-                        color: Colors.black54,
-                      ),
+                      style: TextStyle(fontSize: 13, color: Colors.black54),
                     ),
                   ],
                 ),
