@@ -61,7 +61,7 @@ class _HomeViewState extends State<HomeView> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
                     Text(
-                      'Subject to confess this year test test',
+                      'Subject to confess this year test ',
                       style: TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.bold,

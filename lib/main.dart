@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         scaffoldBackgroundColor: Colors.white,
         appBarTheme: const AppBarTheme(
-          backgroundColor: Colors.lightBlue,
+          backgroundColor: Colors.white,
           surfaceTintColor: Colors.white,
           elevation: 0,
         ),
