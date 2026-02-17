@@ -36,8 +36,6 @@ class LoginController extends ChangeNotifier {
     isLoading = true;
     notifyListeners();
 
-    await Future.delayed(const Duration(seconds: 2));
-
     userRole = detectRoleByEmail(emailController.text);
 
     isLoading = false;
